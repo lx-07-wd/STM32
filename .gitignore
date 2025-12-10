@@ -1,0 +1,22 @@
+# Keil ÁÙÊ±ÎÄ¼þ
+*.uvguix.*
+*.build_log.htm
+*.dep
+*.lnp
+*.lst
+*.map
+*.obj
+*.o
+*.crf
+*.iex
+*.htm
+*_htmresc/
+RTE/
+Debug/
+Release/
+Listings/
+Objects/
+*.scvd
+*.pack
+*.uvoptx
+JLinkLog.txt
